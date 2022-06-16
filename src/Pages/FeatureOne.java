@@ -6,6 +6,7 @@ public class FeatureOne {
 		
 		System.out.println("Feature One Tag Example");
 		System.out.print("Feature One Tag Example Two");
+		System.out.print("Feature One Tag Example Three");
 	}
 
 }
